@@ -1,8 +1,8 @@
-lemon
+mango
 =====
 
-[![Build Status](https://travis-ci.org/xuhuisheng/lemon.png)](https://travis-ci.org/xuhuisheng/lemon)
+[![Build Status]
 
-开源OA
+开源OA 助你致福
 
-http://www.mossle.com/
+http://www.alipay.com/
